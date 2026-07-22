@@ -6,7 +6,7 @@
 
 📍 Karachi, Pakistan &nbsp;|&nbsp; 📧 wajahattt.hussain@gmail.com
 
-[![Portfolio](https://img.shields.io/badge/Resume-View-1c5a95?style=flat-square)]([[https://wajahattt-dev.github.io/Wajahat-Hussain-Sangi-Resume/](https://wajahathussainsangi.github.io/Wajahat-Hussain-Sangi-Resume/)](https://wajahathussainsangi.github.io/Wajahat-Hussain-Sangi-Resume/))
+[![Portfolio](https://img.shields.io/badge/Resume-View-1c5a95?style=flat-square)](https://wajahathussainsangi.github.io/Wajahat-Hussain-Sangi-Resume/)
 [![Email](https://img.shields.io/badge/Email-Contact-1c5a95?style=flat-square)](mailto:wajahattt.hussain@gmail.com)
 
 </div>
